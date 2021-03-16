@@ -1,2 +1,2 @@
 # Second function for environmental monitoring
-Description available on Medium.
+Description available on Medium.  Improved.
